@@ -3,10 +3,9 @@
 - :computer: Computer Science student at the Technion.
 - :man_technologist: Interested in deep learning and computer vision.
 - :technologist: Currently working at a government company in the field of computer vision and deep learning.
+- - :man_student: During my Bachelor's degree, I've developed a [**Tbot**](https://github.com/tokeron/Tbot) for the Technion students. [Try it](https://t.me/Technion_help_bot).
 - :earth_americas: I am looking to make a real impact at any place I'm in.
 - :computer:  I'm very curious about new technologies.
-- :man_student: During my Bachelor's degree, I've developed a [**Tbot**](https://github.com/tokeron/Tbot) for the Technion students. [Try it](https://t.me/Technion_help_bot).
-
 - :camera_flash: During my free time I love to travel, photograph, and play Chess.
 <!--
 **tokeron/tokeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
