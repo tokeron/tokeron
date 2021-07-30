@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, It's Michael's Git 👋
+
+I'm a computer science student, interested in deep learning and computer vision.
+I'm very curious about new technologies, 
+I love coming up with new solutions and ideas for problems,
+and I am looking to make a real impact at any place I am in.
+
+During my Bachelor's degree, I have developed a bot in order to help students at the Technion. You can see the repository **TBOT**. You are also welcome to try and [use the bot](https://t.me/Technion_help_bot).
+
+Currently, I work at a government company in the field of computer vision and deep learning.
 
 <!--
 **tokeron/tokeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
