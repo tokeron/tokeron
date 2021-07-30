@@ -1,13 +1,13 @@
 ### Hi, It's Michael's Git 👋
 
 - :computer: Computer Science student at the Technion.
-- :man_technologist: I'm interested in deep learning and computer vision.
-- :man_technologist: I’m currently working at a government company in the field of computer vision and deep learning.
-- 🔭 I’m currently working on a new regularization technique for CNN's.
-- :camera_flash: During my free time I love to traver, photograh and to play Chess.
+- :man_technologist: Interested in deep learning and computer vision.
+- :technologist: Currently working at a government company in the field of computer vision and deep learning.
 - :earth_americas: I am looking to make a real impact at any place I'm in.
 - :computer: I'm very curious about new technologies, and it's impact on out life.
-- :man_student: During my Bachelor's degree, I've developed a bot for the Technion students. [Try it](https://t.me/Technion_help_bot). You can see the code in repository **Tbot**.
+- :man_student: During my Bachelor's degree, I've developed a [**Tbot**](https://github.com/tokeron/Tbot) for the Technion students. [Try it](https://t.me/Technion_help_bot).
+
+- :camera_flash: During my free time I love to traver, photograh and to play Chess.
 <!--
 **tokeron/tokeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - :mountain: 
+- 🔭 I’m currently working on a new regularization technique for CNN's.
 -->
