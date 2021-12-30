@@ -1,7 +1,7 @@
 ### Hi, It's Michael's Git 👋
 
 - :computer: Computer Science student at the Technion.
-- :man_technologist: Interested in deep learning and computer vision.
+- :man_technologist: Interested in deep learning and NLP.
 - :technologist: Currently working at a government company in the field of computer vision and deep learning.
 - :man_student: During my Bachelor's degree, I've developed a [**Tbot**](https://github.com/tokeron/Tbot) for the Technion students. [Try it](https://t.me/Technion_help_bot).
 - :earth_americas: I am looking to make a real impact at any place I'm in.
