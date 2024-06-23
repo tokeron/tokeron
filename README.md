@@ -1,6 +1,6 @@
 ### Hi, It's Michael's Git 👋
 
-- :computer: Computer Science Master student at the Technion under the supervision of Yonatan Belinkov.
+- :computer: Computer Science PhD candidate at the Technion under the supervision of Yonatan Belinkov.
 - 📖 Visit my [**web page**](https://tokeron.github.io/)
 - :man_technologist: Interested in deep learning and NLP.
 - :technologist: My research is focused on the explainability of LLMs and TTI models.
